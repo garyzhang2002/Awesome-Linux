@@ -1,0 +1,17 @@
+This is my personal collection of awesome Linux applications, tools and projects.
+
++ [neovim](https://github.com/neovim/neovim)
++ [helix](https://github.com/helix-editor/helix)
++ [tldr](https://github.com/tldr-pages/tldr)
++ [nnn](https://github.com/jarun/nnn)
++ [z](https://github.com/rupa/z)
++ [zsh](https://www.zsh.org)
++ [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)
++ [dwm](https://dwm.suckless.org)
++ [spaceship promp](https://github.com/spaceship-prompt/spaceship-prompt)
++ [fd](https://github.com/sharkdp/fd)
++ [rg](https://github.com/BurntSushi/ripgrep)
++ [bat](https://github.com/sharkdp/bat)
++ [copyq](https://github.com/hluk/CopyQ)
++ [howdy](https://github.com/boltgolt/howdy)
++ [tig](https://github.com/jonas/tig)
