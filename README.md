@@ -13,6 +13,7 @@ This is my personal collection of awesome Linux applications, tools and projects
 + [spaceship promp](https://github.com/spaceship-prompt/spaceship-prompt)
 + [fd](https://github.com/sharkdp/fd)
 + [rg](https://github.com/BurntSushi/ripgrep)
++ [btop](https://github.com/aristocratos/btop)
 + [bat](https://github.com/sharkdp/bat)
 + [copyq](https://github.com/hluk/CopyQ)
 + [howdy](https://github.com/boltgolt/howdy)
